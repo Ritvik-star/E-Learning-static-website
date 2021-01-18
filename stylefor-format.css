@@ -1,0 +1,30 @@
+.menu{
+			float: left;
+			width: 20%;
+		}
+.right{
+			background-color: lightblue;
+			float: center;
+			width: 10%;
+			padding: 10px 13px;
+			margin-top: 0px;
+		}		
+.menuitem{
+			padding: 8px;
+			margin-top: 7px;
+			border-bottom: 1px solid #f1f1f1;
+		}
+
+.main{
+			float: left;
+			width: 60%;
+			padding: 0 20px;
+			overflow: hidden;
+		}		
+
+.table{
+	border-spacing:5px;
+	border:1px solid blue; 
+ border-collapse: collapse;
+ padding:10px;
+}
